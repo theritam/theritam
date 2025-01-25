@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritam Kulshreshtha</h1>
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
-<img align="right" alt="coding" width = "400" src ="https://github.com/user-attachments/assets/1c00b6f2-124b-4465-9f34-955cc1d1ac3b">
+<img align="right" alt="coding" width = "400" src ="https://github.com/user-attachments/assets/fdd14bed-b879-42fc-8e81-943e23d8c63c">
 
 - 📫 How to reach me **ritzkul03@gmail.com**
 
